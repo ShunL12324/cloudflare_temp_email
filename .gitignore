@@ -137,3 +137,6 @@ dist
 wrangler.toml
 .dev.vars
 pnpm-lock.yaml
+
+# Claude credentials
+.claude/
